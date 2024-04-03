@@ -1,0 +1,17 @@
+Basic structure of HTML Table -
+
+1. <table> -> table itself
+2. <tr> -> table row
+3. <th> -> table head
+4. <td> -> table data
+
+<table> 
+    <tr>
+        <th>Header one</th> 
+        <th>Header two</th> 
+    </tr>
+    <tr>
+        <td>Row 1, cell 1</td> 
+        <td>Row 2, Cell 2</td> 
+    </tr>
+</table>
